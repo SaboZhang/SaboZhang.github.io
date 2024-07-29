@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SeeYou</title>
+    <link>https://blog.luckyits.com/</link>
+    
+    <image>
+      <url>https://blog.luckyits.com/icon.png</url>
+      <title>SeeYou</title>
+      <link>https://blog.luckyits.com/</link>
+    </image>
+    
+    <atom:link href="https://blog.luckyits.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>芝兰生于深林，不以无人而不芳；君子修道立德，不为穷困而改节。一个个人分享生活，分享技术的博客。相信你可以在这里找到对你有用的知识和教程。</description>
+    <pubDate>Wed, 29 May 2024 14:36:37 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>快递隐私：一份不速之&quot;广告&quot;引发的思考</title>
+      <link>https://blog.luckyits.com/post/5579/</link>
+      <guid>https://blog.luckyits.com/post/5579/</guid>
+      <pubDate>Wed, 29 May 2024 14:36:37 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.luckyits.com/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/">生活日常</category>
+      
+      
+      <category domain="https://blog.luckyits.com/tags/%E5%BF%AB%E9%80%92/">快递</category>
+      
+      <category domain="https://blog.luckyits.com/tags/%E6%80%9D%E8%80%83/">思考</category>
+      
+      <category domain="https://blog.luckyits.com/tags/%E7%94%9F%E6%B4%BB/">生活</category>
+      
+      
+      <comments>https://blog.luckyits.com/post/5579/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>解决yarn安装创建项目时报错，文件名、目录名或卷标语法不正确</title>
+      <link>https://blog.luckyits.com/post/677/</link>
+      <guid>https://blog.luckyits.com/post/677/</guid>
+      <pubDate>Fri, 24 May 2024 02:42:13 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;在开发过程中，我们可能会遇到 &lt;code&gt;npm&lt;/code&gt; 和 &lt;code&gt;yarn&lt;/code&gt; 的全局安装位置不一致的问题。从而导致一些命令无法正常使用。本文将分享我如何解决这个问题的经历，希望对遇到类似问题的开发者有所帮助。&lt;/p&gt;
+&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/">经验分享</category>
+      
+      <category domain="https://blog.luckyits.com/categories/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/">程序设计</category>
+      
+      
+      <category domain="https://blog.luckyits.com/tags/%E5%89%8D%E7%AB%AF/">前端</category>
+      
+      <category domain="https://blog.luckyits.com/tags/%E5%BC%80%E5%8F%91/">开发</category>
+      
+      <category domain="https://blog.luckyits.com/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+      
+      <category domain="https://blog.luckyits.com/tags/npm/">npm</category>
+      
+      <category domain="https://blog.luckyits.com/tags/yarn/">yarn</category>
+      
+      
+      <comments>https://blog.luckyits.com/post/677/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Windows下 Microsoft Edge 闪退的解决思路</title>
+      <link>https://blog.luckyits.com/post/38659/</link>
+      <guid>https://blog.luckyits.com/post/38659/</guid>
+      <pubDate>Tue, 21 May 2024 03:12:35 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Edge浏览器作为微软旗下的新时代网络门户(现阶段Windows11、Windows10都会预装)，凭借其迅速且高效的性能赢得了广泛用户的青睐。然而，尽管大多数时候它工作得相当出色，但在某些特定情境下，用户可能会遭遇到浏览器意外闪退的尴尬局面。为此，本文旨在深入探讨一种解决</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/">经验分享</category>
+      
+      <category domain="https://blog.luckyits.com/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/">技术教程</category>
+      
+      
+      <category domain="https://blog.luckyits.com/tags/%E9%97%AA%E9%80%80/">闪退</category>
+      
+      <category domain="https://blog.luckyits.com/tags/%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF/">解决思路</category>
+      
+      <category domain="https://blog.luckyits.com/tags/Windows/">Windows</category>
+      
+      <category domain="https://blog.luckyits.com/tags/Microsoft-Edge/">Microsoft Edge</category>
+      
+      
+      <comments>https://blog.luckyits.com/post/38659/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>hexo分类的使用</title>
+      <link>https://blog.luckyits.com/post/53142/</link>
+      <guid>https://blog.luckyits.com/post/53142/</guid>
+      <pubDate>Sun, 19 May 2024 07:44:01 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;如果你熟悉官方文档，那这篇文章可能帮助不到你，但是如果你跟我一样是刚接触hexo，或者你只是想快速了解hexo的分类标签的话，那么这篇文章或许能帮到你。在很多情况下我们写文章的时候可能需要让一篇文章同属于多个分类标签，例如我写的&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/">经验分享</category>
+      
+      <category domain="https://blog.luckyits.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">学习笔记</category>
+      
+      
+      <category domain="https://blog.luckyits.com/tags/%E5%88%86%E7%B1%BB/">分类</category>
+      
+      <category domain="https://blog.luckyits.com/tags/%E6%A0%87%E7%AD%BE/">标签</category>
+      
+      <category domain="https://blog.luckyits.com/tags/hexo/">hexo</category>
+      
+      <category domain="https://blog.luckyits.com/tags/%E7%BB%8F%E9%AA%8C%E6%95%99%E7%A8%8B/">经验教程</category>
+      
+      
+      <comments>https://blog.luckyits.com/post/53142/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Delete`␍` eslint(prettier/prettier) 错误的解决方案</title>
+      <link>https://blog.luckyits.com/post/59018/</link>
+      <guid>https://blog.luckyits.com/post/59018/</guid>
+      <pubDate>Sun, 19 May 2024 04:06:45 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;问题及原因&quot;&gt;问题及原因&lt;/h2&gt;
+&lt;p&gt;在 VSCode 编码过程中，遇到了 ESLint 提示的“Delete ␍ eslint(prettier/prettier)”错误。这通常是因为安装的 Prettier</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/">经验分享</category>
+      
+      <category domain="https://blog.luckyits.com/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/">技术教程</category>
+      
+      
+      <category domain="https://blog.luckyits.com/tags/eslint/">eslint</category>
+      
+      <category domain="https://blog.luckyits.com/tags/vscode/">vscode</category>
+      
+      <category domain="https://blog.luckyits.com/tags/prettier/">prettier</category>
+      
+      
+      <comments>https://blog.luckyits.com/post/59018/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>FRP与Nginx服务搭建</title>
+      <link>https://blog.luckyits.com/post/59328/</link>
+      <guid>https://blog.luckyits.com/post/59328/</guid>
+      <pubDate>Thu, 09 May 2024 07:58:15 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h3 id=&quot;简介&quot;&gt;简介&lt;/h3&gt;
+&lt;p&gt;FRP（Fast Reverse</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.luckyits.com/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/">技术教程</category>
+      
+      
+      <category domain="https://blog.luckyits.com/tags/FRP/">FRP</category>
+      
+      <category domain="https://blog.luckyits.com/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/">技术教程</category>
+      
+      <category domain="https://blog.luckyits.com/tags/%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/">服务搭建</category>
+      
+      <category domain="https://blog.luckyits.com/tags/Nginx/">Nginx</category>
+      
+      
+      <comments>https://blog.luckyits.com/post/59328/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>认识Kubernetes以及与Docker的关系</title>
+      <link>https://blog.luckyits.com/post/44881/</link>
+      <guid>https://blog.luckyits.com/post/44881/</guid>
+      <pubDate>Sat, 04 May 2024 08:38:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Kubernetes（k8s）的发展影响着全球IT技术的基础设施平台，也推动了云原生应用、微服务架构、Service</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.luckyits.com/categories/DevOps/">DevOps</category>
+      
+      
+      <category domain="https://blog.luckyits.com/tags/%E5%90%8E%E7%AB%AF/">后端</category>
+      
+      <category domain="https://blog.luckyits.com/tags/Docker/">Docker</category>
+      
+      <category domain="https://blog.luckyits.com/tags/Kubernetes/">Kubernetes</category>
+      
+      
+      <comments>https://blog.luckyits.com/post/44881/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Windows安装Scoop</title>
+      <link>https://blog.luckyits.com/post/61991/</link>
+      <guid>https://blog.luckyits.com/post/61991/</guid>
+      <pubDate>Sat, 04 May 2024 04:24:54 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;通过以下命令，可以将Scoop安装到默认目录（ C:&#92;Users&amp;lt;username&amp;gt;&#92;scoop）：&lt;/p&gt;
+&lt;pre class=&quot;language-powershell&quot; data-language=&quot;powershell&quot;&gt;&lt;code</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/">经验分享</category>
+      
+      
+      <category domain="https://blog.luckyits.com/tags/Scoop/">Scoop</category>
+      
+      <category domain="https://blog.luckyits.com/tags/Windows/">Windows</category>
+      
+      
+      <comments>https://blog.luckyits.com/post/61991/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Windows11迁移Docker到其他磁盘</title>
+      <link>https://blog.luckyits.com/post/4080/</link>
+      <guid>https://blog.luckyits.com/post/4080/</guid>
+      <pubDate>Fri, 03 May 2024 13:55:03 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;docker-for-windows-的安装&quot;&gt;Docker for Windows 的安装&lt;/h2&gt;
+&lt;div class=&quot;note info modern&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span class=&quot;p</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/">经验分享</category>
+      
+      <category domain="https://blog.luckyits.com/categories/DevOps/">DevOps</category>
+      
+      
+      <category domain="https://blog.luckyits.com/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      <category domain="https://blog.luckyits.com/tags/Docker/">Docker</category>
+      
+      <category domain="https://blog.luckyits.com/tags/Windows11/">Windows11</category>
+      
+      
+      <comments>https://blog.luckyits.com/post/4080/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>提高你的工作效率，高效本地检索工具Listary跟Everything</title>
+      <link>https://blog.luckyits.com/post/34919/</link>
+      <guid>https://blog.luckyits.com/post/34919/</guid>
+      <pubDate>Fri, 03 May 2024 05:02:18 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;正在刷漫威的途中，朋友发来消息说 Wndows7 的搜索功能不好使了。Window7 的搜索相信大家都有所体验。本地搜索功能速度之慢让人无力吐槽（不知道他是怎么一直用的这个让人无力吐槽的自带搜索功能的）。也没想太多就开始着手帮忙解决问题，然而毕竟国内大环境如此，朋友使用的</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.luckyits.com/categories/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/">工具推荐</category>
+      
+      
+      <category domain="https://blog.luckyits.com/tags/Listary/">Listary</category>
+      
+      <category domain="https://blog.luckyits.com/tags/Everything/">Everything</category>
+      
+      
+      <comments>https://blog.luckyits.com/post/34919/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>常用Linux命令</title>
+      <link>https://blog.luckyits.com/post/3397/</link>
+      <guid>https://blog.luckyits.com/post/3397/</guid>
+      <pubDate>Fri, 03 May 2024 02:08:34 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;整理的 DevOps 人员常用的命令罗列出来，建立了一个速查表供大家参考！方便大家进行快速查看，节省搜索时间！这里只是一些基础的命令，其他内容可以访问&lt;a</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.luckyits.com/categories/Linux/">Linux</category>
+      
+      
+      <category domain="https://blog.luckyits.com/tags/Linux/">Linux</category>
+      
+      <category domain="https://blog.luckyits.com/tags/DevOps/">DevOps</category>
+      
+      
+      <comments>https://blog.luckyits.com/post/3397/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>java基础知识总结</title>
+      <link>https://blog.luckyits.com/post/16446/</link>
+      <guid>https://blog.luckyits.com/post/16446/</guid>
+      <pubDate>Thu, 02 May 2024 02:49:47 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+&lt;p&gt;本文主要是跟大家一起复习一下我之前学习的 java 基础中的知识点的总结。java</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.luckyits.com/categories/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/">程序设计</category>
+      
+      
+      <category domain="https://blog.luckyits.com/tags/%E5%90%8E%E7%AB%AF/">后端</category>
+      
+      <category domain="https://blog.luckyits.com/tags/%E5%BC%80%E5%8F%91/">开发</category>
+      
+      <category domain="https://blog.luckyits.com/tags/java/">java</category>
+      
+      
+      <comments>https://blog.luckyits.com/post/16446/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Ubuntu修改镜像源</title>
+      <link>https://blog.luckyits.com/post/63542/</link>
+      <guid>https://blog.luckyits.com/post/63542/</guid>
+      <pubDate>Thu, 02 May 2024 02:32:56 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2 id=&quot;背景&quot;&gt;背景&lt;/h2&gt;
+&lt;p&gt;Ubuntu 使用的下载源服务器在国外，因此在使用的的时候，特别的慢，因此换国内的 Ubuntu 镜像源，便成了解决速度慢的优选方案。国内的知名镜像源有很多，比如阿里云、华为云、清华大学镜像源……等国内知名镜像源。&lt;/p&gt;
+&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.luckyits.com/categories/Linux/">Linux</category>
+      
+      
+      <category domain="https://blog.luckyits.com/tags/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      <category domain="https://blog.luckyits.com/tags/Linux/">Linux</category>
+      
+      <category domain="https://blog.luckyits.com/tags/Ubuntu/">Ubuntu</category>
+      
+      
+      <comments>https://blog.luckyits.com/post/63542/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>git乱码问题解决</title>
+      <link>https://blog.luckyits.com/post/44647/</link>
+      <guid>https://blog.luckyits.com/post/44647/</guid>
+      <pubDate>Sun, 01 Nov 2020 07:53:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;hr&gt;
+&lt;h3 id=&quot;📅-时间：2020-11-01&quot;&gt;📅 时间：2020-11-01&lt;/h3&gt;
+&lt;h3 id=&quot;☀-天气：-☀-☁-🌧-❄&quot;&gt;☀️天气：- [√] ☀️ - [ ] ☁️ - [ ] 🌧️ - [ ] ❄️&lt;/h3&gt;
+&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/">经验分享</category>
+      
+      
+      <category domain="https://blog.luckyits.com/tags/git/">git</category>
+      
+      <category domain="https://blog.luckyits.com/tags/Windows-Terminal/">Windows Terminal</category>
+      
+      
+      <comments>https://blog.luckyits.com/post/44647/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>英语听力学习笔记</title>
+      <link>https://blog.luckyits.com/post/34288/</link>
+      <guid>https://blog.luckyits.com/post/34288/</guid>
+      <pubDate>Sun, 18 Oct 2020 07:57:02 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1 id=&quot;外语精听练习-1018&quot;&gt;外语精听练习 1018&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;City Lights Chapter 5 James’ House 2020-10-18&lt;/strong&gt;&lt;/p&gt;
+&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      <category domain="https://blog.luckyits.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/">学习笔记</category>
+      
+      
+      <category domain="https://blog.luckyits.com/tags/%E7%AC%94%E8%AE%B0/">笔记</category>
+      
+      <category domain="https://blog.luckyits.com/tags/%E8%8B%B1%E8%AF%AD/">英语</category>
+      
+      <category domain="https://blog.luckyits.com/tags/%E9%9A%8F%E7%AC%94/">随笔</category>
+      
+      <category domain="https://blog.luckyits.com/tags/%E5%90%AC%E5%8A%9B%E5%AD%A6%E4%B9%A0/">听力学习</category>
+      
+      <category domain="https://blog.luckyits.com/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/">学习记录</category>
+      
+      <category domain="https://blog.luckyits.com/tags/English/">English</category>
+      
+      
+      <comments>https://blog.luckyits.com/post/34288/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
