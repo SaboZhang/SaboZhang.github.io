@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SeeYou</title>
+  <icon>https://blog.luckyits.com/icon.png</icon>
+  <subtitle>我想要两颗西柚</subtitle>
+  <link href="https://blog.luckyits.com/atom.xml" rel="self"/>
+  
+  <link href="https://blog.luckyits.com/"/>
+  <updated>2025-05-01T01:38:59.000Z</updated>
+  <id>https://blog.luckyits.com/</id>
+  
+  <author>
+    <name>西柚</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>InfoBar 悬浮于整个页面顶层</title>
+    <link href="https://blog.luckyits.com/post/8453/"/>
+    <id>https://blog.luckyits.com/post/8453/</id>
+    <published>2025-05-01T01:38:59.000Z</published>
+    <updated>2025-05-01T01:38:59.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;❓目标&quot;&gt;&lt;a href=&quot;#❓目标&quot; class=&quot;headerlink&quot; title=&quot;❓目标&quot;&gt;&lt;/a&gt;❓目标&lt;/h2&gt;&lt;p&gt;在 WinUI3 中 InfoBar</summary>
+        
+      
+    
+    
+    
+    <category term="经验分享" scheme="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="程序设计" scheme="https://blog.luckyits.com/categories/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="开发" scheme="https://blog.luckyits.com/tags/%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="随笔" scheme="https://blog.luckyits.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term=".NET" scheme="https://blog.luckyits.com/tags/NET/"/>
+    
+    <category term="WinUI3" scheme="https://blog.luckyits.com/tags/WinUI3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>解决dify 不支持.doc文件的问题</title>
+    <link href="https://blog.luckyits.com/post/14998/"/>
+    <id>https://blog.luckyits.com/post/14998/</id>
+    <published>2025-05-01T01:29:35.000Z</published>
+    <updated>2025-05-01T01:29:35.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;背景介绍&quot;&gt;&lt;a href=&quot;#背景介绍&quot; class=&quot;headerlink&quot; title=&quot;背景介绍&quot;&gt;&lt;/a&gt;背景介绍&lt;/h2&gt;&lt;p&gt;Dify 作为一个开源的 LLM 应用开发平台，其内置的文档提取器在处理某些文件格式时存在局限性。根据 Dify</summary>
+        
+      
+    
+    
+    
+    <category term="经验分享" scheme="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="技术教程" scheme="https://blog.luckyits.com/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="DevOps" scheme="https://blog.luckyits.com/categories/DevOps/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.luckyits.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="dify" scheme="https://blog.luckyits.com/tags/dify/"/>
+    
+    <category term="解决方案" scheme="https://blog.luckyits.com/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WinUI3 绑定异常问题分析</title>
+    <link href="https://blog.luckyits.com/post/58950/"/>
+    <id>https://blog.luckyits.com/post/58950/</id>
+    <published>2025-04-19T02:56:38.000Z</published>
+    <updated>2025-04-19T11:17:39.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;问题分析&quot;&gt;&lt;a href=&quot;#问题分析&quot; class=&quot;headerlink&quot; title=&quot;问题分析&quot;&gt;&lt;/a&gt;&lt;strong&gt;问题分析&lt;/strong&gt;&lt;/h3&gt;&lt;h4 id=&quot;1-绑定失败的可能性&quot;&gt;&lt;a href=&quot;#1-绑定失败的可能性&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="经验分享" scheme="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="程序设计" scheme="https://blog.luckyits.com/categories/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="开发" scheme="https://blog.luckyits.com/tags/%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="随笔" scheme="https://blog.luckyits.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term=".NET" scheme="https://blog.luckyits.com/tags/NET/"/>
+    
+    <category term="WinRT" scheme="https://blog.luckyits.com/tags/WinRT/"/>
+    
+    <category term="WinUI3" scheme="https://blog.luckyits.com/tags/WinUI3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>项目升级依赖提示版本冲突错误</title>
+    <link href="https://blog.luckyits.com/post/41167/"/>
+    <id>https://blog.luckyits.com/post/41167/</id>
+    <published>2025-04-19T01:36:15.000Z</published>
+    <updated>2025-04-19T02:36:15.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot; title=&quot;问题描述&quot;&gt;&lt;/a&gt;问题描述&lt;/h2&gt;&lt;p&gt;从 .NET 5 开始，CoreCLR 不再支持直接使用 WinMD 文件，导致依赖升级失败。需通过第三方组件实现</summary>
+        
+      
+    
+    
+    
+    <category term="经验分享" scheme="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="程序设计" scheme="https://blog.luckyits.com/categories/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="开发" scheme="https://blog.luckyits.com/tags/%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="随笔" scheme="https://blog.luckyits.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term=".NET" scheme="https://blog.luckyits.com/tags/NET/"/>
+    
+    <category term="WinRT" scheme="https://blog.luckyits.com/tags/WinRT/"/>
+    
+    <category term="WinUI3" scheme="https://blog.luckyits.com/tags/WinUI3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>nginx配置PDFjs报错无法显示</title>
+    <link href="https://blog.luckyits.com/post/43125/"/>
+    <id>https://blog.luckyits.com/post/43125/</id>
+    <published>2024-09-23T07:18:42.000Z</published>
+    <updated>2024-09-23T07:18:42.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;一、错误描述&quot;&gt;&lt;a href=&quot;#一、错误描述&quot; class=&quot;headerlink&quot; title=&quot;一、错误描述&quot;&gt;&lt;/a&gt;一、错误描述&lt;/h2&gt;&lt;p&gt;在使用 PDFjs 时，可能会遇到以下错误：&lt;code&gt;Failed to load module</summary>
+        
+      
+    
+    
+    
+    <category term="经验分享" scheme="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="技术教程" scheme="https://blog.luckyits.com/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="DevOps" scheme="https://blog.luckyits.com/categories/DevOps/"/>
+    
+    
+    <category term="踩坑" scheme="https://blog.luckyits.com/tags/%E8%B8%A9%E5%9D%91/"/>
+    
+    <category term="解决方案" scheme="https://blog.luckyits.com/tags/%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88/"/>
+    
+    <category term="PDFjs" scheme="https://blog.luckyits.com/tags/PDFjs/"/>
+    
+    <category term="nginx" scheme="https://blog.luckyits.com/tags/nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>快递隐私：一份不速之&quot;广告&quot;引发的思考</title>
+    <link href="https://blog.luckyits.com/post/5579/"/>
+    <id>https://blog.luckyits.com/post/5579/</id>
+    <published>2024-05-29T14:36:37.000Z</published>
+    <updated>2024-05-29T14:36:37.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;代发空包现象&quot;&gt;&lt;a href=&quot;#代发空包现象&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="生活日常" scheme="https://blog.luckyits.com/categories/%E7%94%9F%E6%B4%BB%E6%97%A5%E5%B8%B8/"/>
+    
+    
+    <category term="快递" scheme="https://blog.luckyits.com/tags/%E5%BF%AB%E9%80%92/"/>
+    
+    <category term="思考" scheme="https://blog.luckyits.com/tags/%E6%80%9D%E8%80%83/"/>
+    
+    <category term="生活" scheme="https://blog.luckyits.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>解决yarn安装创建项目时报错，文件名、目录名或卷标语法不正确</title>
+    <link href="https://blog.luckyits.com/post/677/"/>
+    <id>https://blog.luckyits.com/post/677/</id>
+    <published>2024-05-24T02:42:13.000Z</published>
+    <updated>2024-05-24T02:42:13.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;在开发过程中，我们可能会遇到 &lt;code&gt;npm&lt;/code&gt; 和 &lt;code&gt;yarn&lt;/code&gt; 的全局安装位置不一致的问题。从而导致一些命令无法正常使用。本文将分享我如何解决这个问题的经历，希望对遇到类似问题的开发者有所帮助。&lt;/p&gt;
+&lt;h2</summary>
+        
+      
+    
+    
+    
+    <category term="经验分享" scheme="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="程序设计" scheme="https://blog.luckyits.com/categories/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="前端" scheme="https://blog.luckyits.com/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="开发" scheme="https://blog.luckyits.com/tags/%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="随笔" scheme="https://blog.luckyits.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="npm" scheme="https://blog.luckyits.com/tags/npm/"/>
+    
+    <category term="yarn" scheme="https://blog.luckyits.com/tags/yarn/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows下 Microsoft Edge 闪退的解决思路</title>
+    <link href="https://blog.luckyits.com/post/38659/"/>
+    <id>https://blog.luckyits.com/post/38659/</id>
+    <published>2024-05-21T03:12:35.000Z</published>
+    <updated>2024-05-21T03:12:35.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Edge浏览器作为微软旗下的新时代网络门户(现阶段Windows11、Windows10都会预装)，凭借其迅速且高效的性能赢得了广泛用户的青睐。然而，尽管大多数时候它工作得相当出色，但在某些特定情境下，用户可能会遭遇到浏览器意外闪退的尴尬局面。为此，本文旨在深入探讨一种解决</summary>
+        
+      
+    
+    
+    
+    <category term="经验分享" scheme="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="技术教程" scheme="https://blog.luckyits.com/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="闪退" scheme="https://blog.luckyits.com/tags/%E9%97%AA%E9%80%80/"/>
+    
+    <category term="解决思路" scheme="https://blog.luckyits.com/tags/%E8%A7%A3%E5%86%B3%E6%80%9D%E8%B7%AF/"/>
+    
+    <category term="Windows" scheme="https://blog.luckyits.com/tags/Windows/"/>
+    
+    <category term="Microsoft Edge" scheme="https://blog.luckyits.com/tags/Microsoft-Edge/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo分类的使用</title>
+    <link href="https://blog.luckyits.com/post/53142/"/>
+    <id>https://blog.luckyits.com/post/53142/</id>
+    <published>2024-05-19T07:44:01.000Z</published>
+    <updated>2024-05-19T07:44:01.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;如果你熟悉官方文档，那这篇文章可能帮助不到你，但是如果你跟我一样是刚接触hexo，或者你只是想快速了解hexo的分类标签的话，那么这篇文章或许能帮到你。在很多情况下我们写文章的时候可能需要让一篇文章同属于多个分类标签，例如我写的&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="经验分享" scheme="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="学习笔记" scheme="https://blog.luckyits.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="分类" scheme="https://blog.luckyits.com/tags/%E5%88%86%E7%B1%BB/"/>
+    
+    <category term="标签" scheme="https://blog.luckyits.com/tags/%E6%A0%87%E7%AD%BE/"/>
+    
+    <category term="hexo" scheme="https://blog.luckyits.com/tags/hexo/"/>
+    
+    <category term="经验教程" scheme="https://blog.luckyits.com/tags/%E7%BB%8F%E9%AA%8C%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Delete`␍` eslint(prettier/prettier) 错误的解决方案</title>
+    <link href="https://blog.luckyits.com/post/59018/"/>
+    <id>https://blog.luckyits.com/post/59018/</id>
+    <published>2024-05-19T04:06:45.000Z</published>
+    <updated>2024-05-19T04:06:45.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;问题及原因&quot;&gt;&lt;a href=&quot;#问题及原因&quot; class=&quot;headerlink&quot; title=&quot;问题及原因&quot;&gt;&lt;/a&gt;问题及原因&lt;/h2&gt;&lt;p&gt;在 VSCode 编码过程中，遇到了 ESLint 提示的“Delete ␍</summary>
+        
+      
+    
+    
+    
+    <category term="经验分享" scheme="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="技术教程" scheme="https://blog.luckyits.com/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="eslint" scheme="https://blog.luckyits.com/tags/eslint/"/>
+    
+    <category term="vscode" scheme="https://blog.luckyits.com/tags/vscode/"/>
+    
+    <category term="prettier" scheme="https://blog.luckyits.com/tags/prettier/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>FRP与Nginx服务搭建</title>
+    <link href="https://blog.luckyits.com/post/59328/"/>
+    <id>https://blog.luckyits.com/post/59328/</id>
+    <published>2024-05-09T07:58:15.000Z</published>
+    <updated>2024-05-09T07:58:15.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h3&gt;&lt;p&gt;FRP（Fast Reverse</summary>
+        
+      
+    
+    
+    
+    <category term="技术教程" scheme="https://blog.luckyits.com/categories/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="FRP" scheme="https://blog.luckyits.com/tags/FRP/"/>
+    
+    <category term="技术教程" scheme="https://blog.luckyits.com/tags/%E6%8A%80%E6%9C%AF%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="服务搭建" scheme="https://blog.luckyits.com/tags/%E6%9C%8D%E5%8A%A1%E6%90%AD%E5%BB%BA/"/>
+    
+    <category term="Nginx" scheme="https://blog.luckyits.com/tags/Nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>认识Kubernetes以及与Docker的关系</title>
+    <link href="https://blog.luckyits.com/post/44881/"/>
+    <id>https://blog.luckyits.com/post/44881/</id>
+    <published>2024-05-04T08:38:00.000Z</published>
+    <updated>2024-05-04T08:38:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Kubernetes（k8s）的发展影响着全球IT技术的基础设施平台，也推动了云原生应用、微服务架构、Service</summary>
+        
+      
+    
+    
+    
+    <category term="DevOps" scheme="https://blog.luckyits.com/categories/DevOps/"/>
+    
+    
+    <category term="后端" scheme="https://blog.luckyits.com/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+    <category term="Docker" scheme="https://blog.luckyits.com/tags/Docker/"/>
+    
+    <category term="Kubernetes" scheme="https://blog.luckyits.com/tags/Kubernetes/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows安装Scoop</title>
+    <link href="https://blog.luckyits.com/post/61991/"/>
+    <id>https://blog.luckyits.com/post/61991/</id>
+    <published>2024-05-04T04:24:54.000Z</published>
+    <updated>2024-05-04T04:24:54.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;通过以下命令，可以将Scoop安装到默认目录（ C:&#92;Users&#92;&lt;username&gt;&#92;scoop）：&lt;/username&gt;&lt;/p&gt;
+&lt;pre class=&quot;language-powershell&quot; data-language=&quot;powershell&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="经验分享" scheme="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="Scoop" scheme="https://blog.luckyits.com/tags/Scoop/"/>
+    
+    <category term="Windows" scheme="https://blog.luckyits.com/tags/Windows/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Windows11迁移Docker到其他磁盘</title>
+    <link href="https://blog.luckyits.com/post/4080/"/>
+    <id>https://blog.luckyits.com/post/4080/</id>
+    <published>2024-05-03T13:55:03.000Z</published>
+    <updated>2024-06-07T13:55:04.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Docker-for-Windows-的安装&quot;&gt;&lt;a href=&quot;#Docker-for-Windows-的安装&quot; class=&quot;headerlink&quot; title=&quot;Docker for Windows 的安装&quot;&gt;&lt;/a&gt;Docker for Windows</summary>
+        
+      
+    
+    
+    
+    <category term="经验分享" scheme="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    <category term="DevOps" scheme="https://blog.luckyits.com/categories/DevOps/"/>
+    
+    
+    <category term="教程" scheme="https://blog.luckyits.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Docker" scheme="https://blog.luckyits.com/tags/Docker/"/>
+    
+    <category term="Windows11" scheme="https://blog.luckyits.com/tags/Windows11/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>提高你的工作效率，高效本地检索工具Listary跟Everything</title>
+    <link href="https://blog.luckyits.com/post/34919/"/>
+    <id>https://blog.luckyits.com/post/34919/</id>
+    <published>2024-05-03T05:02:18.000Z</published>
+    <updated>2024-05-03T05:02:18.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;正在刷漫威的途中，朋友发来消息说 Wndows7 的搜索功能不好使了。Window7 的搜索相信大家都有所体验。本地搜索功能速度之慢让人无力吐槽（不知道他是怎么一直用的这个让人无力吐槽的自带搜索功能的）。也没想太多就开始着手帮忙解决问题，然而毕竟国内大环境如此，朋友使用的</summary>
+        
+      
+    
+    
+    
+    <category term="工具推荐" scheme="https://blog.luckyits.com/categories/%E5%B7%A5%E5%85%B7%E6%8E%A8%E8%8D%90/"/>
+    
+    
+    <category term="Listary" scheme="https://blog.luckyits.com/tags/Listary/"/>
+    
+    <category term="Everything" scheme="https://blog.luckyits.com/tags/Everything/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>常用Linux命令</title>
+    <link href="https://blog.luckyits.com/post/3397/"/>
+    <id>https://blog.luckyits.com/post/3397/</id>
+    <published>2024-05-03T02:08:34.000Z</published>
+    <updated>2024-05-07T02:08:36.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;整理的 DevOps 人员常用的命令罗列出来，建立了一个速查表供大家参考！方便大家进行快速查看，节省搜索时间！这里只是一些基础的命令，其他内容可以访问&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://blog.luckyits.com/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://blog.luckyits.com/tags/Linux/"/>
+    
+    <category term="DevOps" scheme="https://blog.luckyits.com/tags/DevOps/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java基础知识总结</title>
+    <link href="https://blog.luckyits.com/post/16446/"/>
+    <id>https://blog.luckyits.com/post/16446/</id>
+    <published>2024-05-02T02:49:47.000Z</published>
+    <updated>2024-05-02T02:49:47.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;  本文主要是跟大家一起复习一下我之前学习的 java 基础中的知识点的总结。java</summary>
+        
+      
+    
+    
+    
+    <category term="程序设计" scheme="https://blog.luckyits.com/categories/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="后端" scheme="https://blog.luckyits.com/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+    <category term="开发" scheme="https://blog.luckyits.com/tags/%E5%BC%80%E5%8F%91/"/>
+    
+    <category term="java" scheme="https://blog.luckyits.com/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu修改镜像源</title>
+    <link href="https://blog.luckyits.com/post/63542/"/>
+    <id>https://blog.luckyits.com/post/63542/</id>
+    <published>2024-05-02T02:32:56.000Z</published>
+    <updated>2024-05-02T02:32:56.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot; title=&quot;背景&quot;&gt;&lt;/a&gt;背景&lt;/h2&gt;&lt;p&gt;Ubuntu 使用的下载源服务器在国外，因此在使用的的时候，特别的慢，因此换国内的 Ubuntu</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://blog.luckyits.com/categories/Linux/"/>
+    
+    
+    <category term="教程" scheme="https://blog.luckyits.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Linux" scheme="https://blog.luckyits.com/tags/Linux/"/>
+    
+    <category term="Ubuntu" scheme="https://blog.luckyits.com/tags/Ubuntu/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>git乱码问题解决</title>
+    <link href="https://blog.luckyits.com/post/44647/"/>
+    <id>https://blog.luckyits.com/post/44647/</id>
+    <published>2020-11-01T07:53:00.000Z</published>
+    <updated>2024-05-03T07:53:09.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;hr&gt;
+&lt;h3 id=&quot;📅-时间：2020-11-01&quot;&gt;&lt;a href=&quot;#📅-时间：2020-11-01&quot; class=&quot;headerlink&quot; title=&quot;📅 时间：2020-11-01&quot;&gt;&lt;/a&gt;📅 时间：2020-11-01&lt;/h3&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="经验分享" scheme="https://blog.luckyits.com/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/"/>
+    
+    
+    <category term="git" scheme="https://blog.luckyits.com/tags/git/"/>
+    
+    <category term="Windows Terminal" scheme="https://blog.luckyits.com/tags/Windows-Terminal/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>英语听力学习笔记</title>
+    <link href="https://blog.luckyits.com/post/34288/"/>
+    <id>https://blog.luckyits.com/post/34288/</id>
+    <published>2020-10-18T07:57:02.000Z</published>
+    <updated>2020-10-18T07:57:02.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;外语精听练习-1018&quot;&gt;&lt;a href=&quot;#外语精听练习-1018&quot; class=&quot;headerlink&quot; title=&quot;外语精听练习 1018&quot;&gt;&lt;/a&gt;外语精听练习 1018&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;City Lights Chapter 5</summary>
+        
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.luckyits.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="笔记" scheme="https://blog.luckyits.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="英语" scheme="https://blog.luckyits.com/tags/%E8%8B%B1%E8%AF%AD/"/>
+    
+    <category term="随笔" scheme="https://blog.luckyits.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="听力学习" scheme="https://blog.luckyits.com/tags/%E5%90%AC%E5%8A%9B%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="学习记录" scheme="https://blog.luckyits.com/tags/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+    <category term="English" scheme="https://blog.luckyits.com/tags/English/"/>
+    
+  </entry>
+  
+</feed>

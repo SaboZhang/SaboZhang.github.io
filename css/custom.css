@@ -1,0 +1,24 @@
+/* 欢迎信息 */
+#welcome-info {
+  border-radius: 18px;
+  padding: 4px;
+  font-size: var(--global-font-size)
+}
+
+strong {
+    color: var(--anzhiyu-lighttext);
+}
+
+
+@media screen and (min-width: 768px){
+
+  @font-face {
+    font-family: "aliDFDK";
+    font-weight: 400;
+    src: url("https://at.alicdn.com/wf/webfont/VLXh07itBdlg/ErHCCeXFyFUZ.woff2") format("woff2"),
+    url("https://at.alicdn.com/wf/webfont/VLXh07itBdlg/h3YSe296YRVf.woff") format("woff");
+    font-display: swap;
+  }
+     
+}
+  
